@@ -5,17 +5,7 @@
   text-align: center;
 } */
 
-header {
-  background-color: #404040;
-  padding: 1rem;
-}
-
-header a {
-  color: #fff;
-  font-weight: bold;
-  text-decoration: none \;;
-}
-.products {
+products {
   display: flex;
   flex-wrap: wrap;
 }
